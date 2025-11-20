@@ -76,6 +76,6 @@ const result = await agent.invoke([new HumanMessage("Your question here")]);
 - **TypeScript**: Type-safe JavaScript
 - **Zod**: Schema validation
 
-## License
+## What I learnt in this project
 
-MIT
+Developing this basic Agent that performs the calculation for the user helped me understand how the langgraph framework for agent orchestration works. I have gained an understanding of how i can implement ai agents to solve problems using this framework.
